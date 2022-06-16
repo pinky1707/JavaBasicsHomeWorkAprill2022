@@ -13,6 +13,7 @@ public interface College {
 	}
 
 	public static void studyRoom() { // static method created
+		System.out.println("Hello");
 
 	}
 

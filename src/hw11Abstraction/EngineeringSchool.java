@@ -1,6 +1,6 @@
 package hw11Abstraction;
 
-public abstract class EngineeringSchool {
+public abstract class EngineeringSchool extends NYUniversity implements AeronauticalSchool{
 //	method declared
 //	this method is called abstract method
 

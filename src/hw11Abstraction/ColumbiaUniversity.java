@@ -26,6 +26,10 @@ package hw11Abstraction;
 		System.out.println("This comment is from non abstract method biology");
 
 	}
+	public static void biology1() {
+		System.out.println("This is a static method  ");
+		
+	}
 //Q- can we create an abstract method in a regular class?Ans-
 //	we can not create an abstract method in a regular class 
 //abstract method can only be defined by an abstract class
@@ -103,6 +107,11 @@ public void surgeryRoom() {
 
 @Override
 public void cafeteria() {
+	// TODO Auto-generated method stub
+	
+}
+
+public static void library() {
 	// TODO Auto-generated method stub
 	
 }

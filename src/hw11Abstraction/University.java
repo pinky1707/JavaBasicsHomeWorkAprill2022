@@ -11,7 +11,7 @@ package hw11Abstraction;
  * Interface use only one keyword "extends" for inheritance
  * implements keyword can't be used for inheritance inside Interface
  */
-public interface University extends College , Hospital {
+public interface University extends College, Hospital {
 
 	// methods declared
 	public void classSize();
@@ -32,5 +32,6 @@ public interface University extends College , Hospital {
 		System.out.println("This is from static method");
 
 	}
+	
 
 }

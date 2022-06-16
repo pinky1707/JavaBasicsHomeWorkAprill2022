@@ -25,6 +25,10 @@ public abstract class MedicalSchool extends NursingSchool implements LawSchool {
 		System.out.println("This is from non abstract method");
 
 	}
+	public static void medicalSchool() {
+		System.out.println("This is a static method from MedicalSchool");
+		
+	}
 
 	public MedicalSchool() { // default Constructor created
 

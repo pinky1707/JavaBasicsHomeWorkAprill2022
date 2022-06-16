@@ -1,6 +1,6 @@
 package hw11Abstraction;
 
-public abstract class NursingSchool {
+public abstract class NursingSchool extends RockefellerUniversity {
 //	method declared
 //	also called abstract method
 	public abstract void hygine();

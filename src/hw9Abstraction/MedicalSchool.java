@@ -22,5 +22,6 @@ public abstract class MedicalSchool {
 	public MedicalSchool() { // default Constructor created
 
 	}
+	
 
 }
