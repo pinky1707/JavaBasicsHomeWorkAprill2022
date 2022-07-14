@@ -49,7 +49,6 @@ public class Sister {
 	}
 
 //	final type method 06 implemented
-//	final type method can not be overloaded
 	public final int sister(int age1, int age2, int age3, int age5) {
 		int total3 = age1 + age2 + age3 + age5;
 		System.out.println("The total age from sister:" + total3);

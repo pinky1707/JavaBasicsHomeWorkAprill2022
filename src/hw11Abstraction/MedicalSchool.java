@@ -1,7 +1,7 @@
 package hw11Abstraction;
 
 //public abstract class MedicalSchool extends RockefellerUniversity {
-//abstract can not inherit a regular class by using "extends" keywords
+//abstract can inherit only one abstract class or one regular class  by using "extends" keywords
 //public abstract class MedicalSchool extends College {here College is an Interface
 //abstract class can not inherit an Interface by "extends" keywords
 //public abstract class MedicalSchool extends NursingSchool { 
